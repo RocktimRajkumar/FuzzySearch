@@ -114,6 +114,41 @@
             "id": "23",
             "title": "Spider-Man: Far From Home",
             "release_date": "2019-07-05"
+        },
+        {
+            "id": "24",
+            "title": "Black Widow",
+            "release_date": "2020-05-01"
+        },
+        {
+            "id": "25",
+            "title": "The Eternals",
+            "release_date": "2020-11-06"
+        },
+        {
+            "id": "26",
+            "title": "Shang-Chi and the Legend of the Ten Rings",
+            "release_date": "2021-02-12"
+        },
+        {
+            "id": "27",
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "release_date": "2021-05-21"
+        },
+        {
+            "id": "28",
+            "title": "Untitled Spider-Man: Far From Home sequel",
+            "release_date": "2021-06-16"
+        },
+        {
+            "id": "29",
+            "title": "Thor: Love and Thunder",
+            "release_date": "2021-11-05"
+        },
+        {
+            "id": "30",
+            "title": "Black Panther II",
+            "release_date": "2022-05-22"
         }
     ]
 }

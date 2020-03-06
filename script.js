@@ -32,7 +32,7 @@ $(document).ready(function () {
         var search = $("#searchVal").val();
         var results = []
 
-        var id = 0;
+        var id = 1;
         $.each(marvel_movie_list, function (i, movie_list) {
             var result = fuzzyMatch(movie_list['title'], search);
             if (result) {
