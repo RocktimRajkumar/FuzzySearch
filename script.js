@@ -42,7 +42,7 @@ $(document).ready(function () {
         });
 
         var resultHTML = results.join('\n');
-        $("#movieList").html(resultHTML);
+        $("#movieList tbody").html(resultHTML);
     }
 
     $(function () {
